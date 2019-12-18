@@ -29,7 +29,7 @@ Wait a few seconds for deployment.
 
 ## Run
 
-Go to the [http://localhost:8080/cra-maven-war](http://localhost:8080/cra-maven-war) from the browser
+Run [http://localhost:8080/cra-maven-war](http://localhost:8080/cra-maven-war) from the browser
 
 ## Authors
 
@@ -37,7 +37,8 @@ Go to the [http://localhost:8080/cra-maven-war](http://localhost:8080/cra-maven-
 
 ## Inspired by
 
-[Deploy React Applications in a Servlet Environment](https://www.megadix.it/blog/create-react-app-servlet/)
+[Deploy React Applications in a Servlet Environment](https://www.megadix.it/blog/create-react-app-servlet/) by
+[Dimitri De Franciscis (megadix)](https://github.com/megadix)
 
 ### License
 
