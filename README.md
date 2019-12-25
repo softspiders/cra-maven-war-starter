@@ -4,7 +4,11 @@ An example of building a war of create-react-app on Maven
 
 ## Direct feature descendants
 
-[cra-maven-war](https://github.com/softspider/cra-maven-war)
+[*cra-ts-maven-war*](https://github.com/softspider/cra-ts-maven-war)
+
+## Direct code descendants
+
+[*cra-ts-maven-war*](https://github.com/softspider/cra-ts-maven-war)
 
 ## Requirements
 
