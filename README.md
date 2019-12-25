@@ -53,7 +53,7 @@ Run [*http://localhost:8080/cra-maven-war-another-path*](http://localhost:8080/c
 
 ## Inspired by
 
-[Deploy React Applications in a Servlet Environment](https://www.megadix.it/blog/create-react-app-servlet/) by
+[*Deploy React Applications in a Servlet Environment*](https://www.megadix.it/blog/create-react-app-servlet/) by
 [Dimitri De Franciscis (megadix)](https://github.com/megadix)
 
 ### License
