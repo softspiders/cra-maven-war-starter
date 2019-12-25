@@ -18,10 +18,10 @@ An example of building a war of create-react-app on Maven
 * [*Node*](https://nodejs.org/en/download/package-manager/)
 * [*Tomcat*](http://tomcat.apache.org/) or another servlet container - for running
 
-## Build
+## Build war
 
 ```sh
-mvn package
+npm run build:war
 ```
 
 
