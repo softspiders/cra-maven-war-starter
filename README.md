@@ -37,13 +37,13 @@ Wait a few seconds for deployment.
 
 ## Run
 
-Run [http://localhost:8080/cra-maven-war](http://localhost:8080/cra-maven-war) from the browser
+Run [*http://localhost:8080/cra-maven-war*](http://localhost:8080/cra-maven-war) from the browser
 
 ## Run from another path
 
 Rename *cra-maven-war* for example to *cra-maven-war-another-path*.  
 Deploy it to the *Tomcat*.  
-Run [http://localhost:8080/cra-maven-war-another-path](http://localhost:8080/cra-maven-war-another-path) from the browser
+Run [*http://localhost:8080/cra-maven-war-another-path*](http://localhost:8080/cra-maven-war-another-path) from the browser
 
 
 
