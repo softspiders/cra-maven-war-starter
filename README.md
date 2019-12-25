@@ -2,13 +2,18 @@
 
 An example of building a war of create-react-app on Maven
 
+## Direct feature descendants
+
+[cra-maven-war](https://github.com/softspider/cra-maven-war)
+
 ## Requirements
 
+* [*create-react-app*](https://facebook.github.io/create-react-app/)
 * [*JDK*](https://java.com/ru/download/) >= 1.5
 * [*Maven*](https://maven.apache.org/)
 * [*Node*](https://nodejs.org/en/download/package-manager/)
-* [*create-react-app*](https://facebook.github.io/create-react-app/)
 * [*Tomcat*](http://tomcat.apache.org/) or another servlet container - for running
+* [*TypeScript*](https://www.typescriptlang.org/)
 
 ## Build
 
