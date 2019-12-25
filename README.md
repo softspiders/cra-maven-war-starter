@@ -13,7 +13,6 @@ An example of building a war of create-react-app on Maven
 * [*Maven*](https://maven.apache.org/)
 * [*Node*](https://nodejs.org/en/download/package-manager/)
 * [*Tomcat*](http://tomcat.apache.org/) or another servlet container - for running
-* [*TypeScript*](https://www.typescriptlang.org/)
 
 ## Build
 
