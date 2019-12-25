@@ -41,7 +41,7 @@ Run [*http://localhost:8080/cra-maven-war*](http://localhost:8080/cra-maven-war)
 
 ## Run from another path
 
-Rename *cra-maven-war* for example to *cra-maven-war-another-path*.  
+Rename *cra-maven-war.war* for example to *cra-maven-war-another-path.war*.  
 Deploy it to the *Tomcat*.  
 Run [*http://localhost:8080/cra-maven-war-another-path*](http://localhost:8080/cra-maven-war-another-path) from the browser
 
