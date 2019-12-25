@@ -1,6 +1,6 @@
 # *cra-maven-war*
 
-An example of building a war of [create-react-app](https://github.com/facebook/create-react-app) on Maven
+An example of building a war of [*create-react-app*](https://github.com/facebook/create-react-app) on Maven
 
 ## Direct feature descendants
 
