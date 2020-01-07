@@ -8,6 +8,7 @@ An example of building a war of [*create-react-app*](https://github.com/facebook
 - create-react-app
 - maven
 - react
+- template
 - war
 
 ## Direct feature descendants
