@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # *cra-maven-war*
 
 An example of building a war of [*create-react-app*](https://github.com/facebook/create-react-app) on Maven
@@ -11,11 +13,7 @@ An example of building a war of [*create-react-app*](https://github.com/facebook
 - template
 - war
 
-## Direct feature descendants
-
-[*cra-ts-maven-war*](https://github.com/softspider/cra-ts-maven-war)
-
-## Direct code descendants
+## Direct descendants - also by code
 
 [*cra-ts-maven-war*](https://github.com/softspider/cra-ts-maven-war)
 
