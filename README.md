@@ -15,7 +15,7 @@ An example of building a war of [*create-react-app*](https://github.com/facebook
 
 ## Direct descendants - also by code
 
-[*cra-ts-maven-war*](https://github.com/softspider/cra-ts-maven-war)
+[*cra-ts-maven-war*](https://github.com/softspiders/cra-ts-maven-war)
 
 ## Requirements
 
