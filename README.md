@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # *cra-maven-war*
 
@@ -7,9 +7,9 @@ An example of building a war of [*create-react-app*](https://github.com/facebook
 ## Feature tags
 
 - build
-- create-react-app
+- cra
 - maven
-- react
+- starter
 - template
 - war
 
