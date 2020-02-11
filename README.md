@@ -7,7 +7,7 @@ An example of building a war of [*create-react-app*](https://github.com/facebook
 ## Feature tags
 
 - build
-- cra
+- create-react-app
 - maven
 - starter
 - template
