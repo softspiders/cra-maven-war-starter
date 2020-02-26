@@ -13,6 +13,11 @@ An example of building a war of [*create-react-app*](https://github.com/facebook
 - template
 - war
 
+
+## Direct ancestors
+
+[cra-starter](https://github.com/softspiders/cra-starter) -{*maven*, *war*} 
+
 ## Direct descendants - also by code
 
 [cra-ts-maven-war-starter](https://github.com/softspiders/cra-ts-maven-war-starter) +{*typescript*} 
